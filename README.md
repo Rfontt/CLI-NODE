@@ -6,8 +6,8 @@ Aqui você encontra os códigos referente a primeira a aula do módulo 10 do JSE
 
 ### Tecnologias
 
-# Jest
-# JavaScript
+#### Jest
+#### JavaScript
 
 ### class-01
 
@@ -15,7 +15,7 @@ Aqui você encontra os códigos referente a segunda a aula do módulo 10 do JSEX
 
 ### Tecnologias
 
-# Jest
-# JavaScript
-# fs
-# fsPromises
+#### Jest
+#### JavaScript
+#### fs
+#### fsPromises
