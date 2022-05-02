@@ -13,7 +13,7 @@ Aqui você encontra os códigos referente a primeira a aula do módulo 10 do JSE
 
 Aqui você encontra os códigos referente a segunda a aula do módulo 10 do JSEXPERT. Aqui realizamos os testes e implementação da lógica de criação dos arquivos, o qual são criados de acordo com suas layers.
 
-### Tecnologias
+### Tecnologias:
 
 - Jest;
 - JavaScript;
